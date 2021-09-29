@@ -2,13 +2,12 @@
 
 ## Project description
 The project is created with React using the hook useRef, useEffect, useState, useContext. The main task is to practise useContext Hook as well as apply Custom Hooks
-, in our case UseGlobalContext hook. The idea  is to copy Stripe Navigation bar. 
+, in our case UseGlobalContext hook. The idea  is to copy Stripe Navigation bar and addapt it to the mobile version. 
 ## Links
 [React icons](https://react-icons.github.io/react-icons/)
 [Stripe platform] (https://stripe.com/en-es)
 
 ![Stripe Navigation bar](https://github.com/barcelo2/Stripe/blob/main/Stripe/src/images/Screenshot%202.png "Stripe Navigation Bar")
-![Stripe mobile version](https://github.com/barcelo2/Stripe/blob/main/Stripe/src/images/Screenshot%201.png "Mobile version stripe")
 
 
 ## Available Commands
