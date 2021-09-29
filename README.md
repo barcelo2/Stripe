@@ -7,8 +7,8 @@ The project is created with React using the hook useRef, useEffect, useState, us
 [React icons](https://react-icons.github.io/react-icons/)
 [Stripe platform] (https://stripe.com/en-es)
 
-![Stripe Navigation bar](https://github.com/barcelo2/NavBar-React/blob/main/NavBar/src/screenshot1.png "Navbar with react")
-![Stripe mobile version](https://github.com/barcelo2/NavBar-React/blob/main/NavBar/src/screenshot2.png "Navbar with react")
+![Stripe Navigation bar](https://github.com/barcelo2/Stripe/blob/main/Stripe/src/images/Screenshot%202.png "Stripe Navigation Bar")
+![Stripe mobile version](https://github.com/barcelo2/Stripe/blob/main/Stripe/src/images/Screenshot%201.png "Mobile version stripe")
 
 
 ## Available Commands
